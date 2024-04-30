@@ -1,0 +1,9 @@
+name: CustomGiantKoTH
+main: fr.syrql.giantkoth.CustomGiantKoTH
+version: 0.0.1
+author: SYRQL
+depend: [ Factions ]
+softdepend: [ PlaceholderAPI ]
+commands:
+  giantkoth:
+    aliases: [ kothpoints, kothp ]
