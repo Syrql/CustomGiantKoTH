@@ -37,7 +37,7 @@ This plugin is a free version. There is no paid version, and you can use source 
 **🌟 Last version :** 0.0.1
 
 ## Autor
-The only autor of TurnMarket:
+The only autor of Giant KOTH:
 * **[@SYRQL](https://github.com/Syrql)**
 
 
